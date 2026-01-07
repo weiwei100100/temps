@@ -1,65 +1,228 @@
-/AI 文档工程|Document AI Engineering|DocAI Engineering/i => AI文档工程
-/企业级 RAG|Enterprise RAG|RAG 系统/i => 企业级RAG
-/检索增强生成|Retrieval Augmented Generation|\bRAG\b/i => RAG
-/知识库|Knowledge Base|KB 系统/i => 知识库
-/文档中台|Document Platform|Content Platform/i => 文档中台
-/Document Lake|文档湖/i => Document Lake
-/知识中台|Knowledge Platform/i => 知识中台
+# ==========================================
+# AI 文档工程 新闻监控关键词配置
+# 适用团队：AI / 文档工程 / 平台 / 研发
+# ==========================================
 
-/Oxygen ContentFusion|ContentFusion/i => Oxygen ContentFusion
-/Oxygen Software|Oxygen XML/i => Oxygen
-/Adobe Experience Manager|\bAEM\b/i => Adobe AEM
-/Alfresco/i => Alfresco
-/SharePoint|Microsoft SharePoint/i => SharePoint
-/OpenText/i => OpenText
-/Tridion|SDL Tridion/i => Tridion
-/Documentum/i => Documentum
-/内容管理系统|\bCMS\b/i => CMS
-/智能内容管理|Intelligent Content Management/i => 智能内容管理
+# ——————————————
+# 【第1组】AI 文档工程 - 核心赛道
+# ——————————————
+AI 文档工程
+Document AI
+Document AI Engineering
+文档智能
+文档 AI
+企业文档 AI
+!培训
+!教程
 
-/文档智能体|Document Agent/i => Document Agent
-/流程智能体|Workflow Agent/i => Workflow Agent
-/多智能体系统|Multi-Agent System/i => 多智能体
-/Agent 框架|Agent Framework/i => Agent框架
-/AutoGPT|BabyAGI/i => 自动化智能体
-/LangGraph/i => LangGraph
-/LangChain/i => LangChain
-/工具调用|Tool Calling|Function Calling/i => 工具调用
+# ——————————————
+# 【第2组】企业级 RAG 与 AI 知识库
+# ——————————————
+企业级 RAG
+RAG 系统
+Retrieval Augmented Generation
+知识库
+AI 知识库
+向量检索
+语义检索
+向量数据库
+Milvus
+Pinecone
+Chroma
+Weaviate
+!入门
 
-/文档解析|Document Parsing/i => 文档解析
-/文档理解|Document Understanding/i => 文档理解
-/结构化抽取|Information Extraction|IE/i => 结构化抽取
-/OCR|光学字符识别/i => OCR
-/版面分析|Layout Analysis/i => 版面分析
-/表格识别|Table Extraction/i => 表格抽取
-/多模态文档|Multimodal Document/i => 多模态文档
+# ——————————————
+# 【第3组】文档中台 / Document Lake
+# ——————————————
+文档中台
+Document Platform
+Content Platform
+Document Lake
+文档湖
+知识中台
+内容中台
 
-/机器翻译|Machine Translation|\bMT\b/i => 机器翻译
-/文档级翻译|Document-level MT/i => 文档级翻译
-/神经机器翻译|Neural Machine Translation|\bNMT\b/i => 神经机器翻译
-/大模型翻译|LLM Translation/i => 大模型翻译
-/术语一致性|Terminology Consistency/i => 术语一致性
-/跨语言 RAG|Cross-lingual RAG/i => 跨语言RAG
+# ——————————————
+# 【第4组】CMS 与智能内容管理
+# ——————————————
+CMS
+内容管理系统
+智能内容管理
+Structured Content
+Component Content
+DITA
+XML
+Markdown
 
-/arXiv/i => arXiv
-/ACL|EMNLP|NAACL/i => NLP顶会
-/CVPR|ICCV|ECCV/i => 视觉顶会
-/NeurIPS|ICML|ICLR/i => AI顶会
-/行业白皮书|White Paper/i => 行业白皮书
-/技术报告|Technical Report/i => 技术报告
+# ——————————————
+# 【第5组】CMS 厂商与产品（重点）
+# ——————————————
+Oxygen ContentFusion
+Oxygen XML
+Oxygen Software
+Adobe Experience Manager
+AEM
+Tridion
+SDL Tridion
+OpenText
+Documentum
+Alfresco
+SharePoint
 
-/通义千问|Qwen/i => 通义千问
-/文心一言|ERNIE/i => 文心一言
-/讯飞星火|Spark/i => 讯飞星火
-/智谱 GLM|ChatGLM/i => ChatGLM
-/百川大模型|Baichuan/i => 百川
-/企业文档 AI|Enterprise Document AI/i => 企业文档AI
+# ——————————————
+# 【第6组】文档智能体（Document / Workflow Agent）
+# ——————————————
+Document Agent
+文档智能体
+Workflow Agent
+流程智能体
+AI Agent
+多智能体
+Multi-Agent System
+LangGraph
+LangChain
+AutoGPT
 
-人工智能
+# ——————————————
+# 【第7组】文档理解与解析
+# ——————————————
+文档解析
+Document Parsing
+文档理解
+Document Understanding
+结构化抽取
+Information Extraction
+版面分析
+Layout Analysis
+表格抽取
+Table Extraction
+OCR
+
+# ——————————————
+# 【第8组】多模态文档理解
+# ——————————————
+多模态文档
+Multimodal Document
+PDF 理解
+图文理解
+视觉文档理解
+Document VQA
+
+# ——————————————
+# 【第9组】文档自动化与工作流
+# ——————————————
+文档自动化
+Document Automation
+Workflow Automation
+审批自动化
+文档生成
+内容生成
+
+# ——————————————
+# 【第10组】机器翻译（文档级）
+# ——————————————
+机器翻译
+Machine Translation
+MT
+文档级翻译
+Document-level MT
+神经机器翻译
+NMT
+大模型翻译
+术语一致性
+
+# ——————————————
+# 【第11组】跨语言文档与 RAG
+# ——————————————
+跨语言 RAG
+Cross-lingual RAG
+多语言知识库
+多语言文档
+翻译增强检索
+
+# ——————————————
+# 【第12组】大模型与文档能力
+# ——————————————
 大模型
-国产
-文档
-企业级
-自动化
-知识
+LLM
+文档大模型
+Long Context
+长上下文
+Context Window
+
+# ——————————————
+# 【第13组】国内大模型（文档应用）
+# ——————————————
+通义千问
+Qwen
+文心一言
+ERNIE
+讯飞星火
+ChatGLM
+智谱 GLM
+百川
+
+# ——————————————
+# 【第14组】国外大模型（文档应用）
+# ——————————————
+GPT
+Claude
+Gemini
+Mistral
+Llama
+
+# ——————————————
+# 【第15组】文档 AI 工具链
+# ——————————————
+LlamaIndex
+Unstructured
+Haystack
+DocParser
+
+# ——————————————
+# 【第16组】数据治理与合规
+# ——————————————
 数据治理
+Data Governance
+文档合规
+内容合规
+权限控制
+审计
+
+# ——————————————
+# 【第17组】企业级部署与安全
+# ——————————————
+私有化部署
+企业级部署
+数据安全
+信息安全
+
+# ——————————————
+# 【第18组】学术研究与论文
+# ——————————————
+arXiv
+ACL
+EMNLP
+NAACL
+NeurIPS
+ICML
+ICLR
+技术报告
+白皮书
+
+# ——————————————
+# 【第19组】行业会议与交流
+# ——————————————
+NLP Summit
+ACL Conference
+
+# ——————————————
+# 【第20组】行业趋势与商业化
+# ——————————————
+企业服务
+SaaS
+文档 SaaS
+知识管理
+数字化转型
+国产化
