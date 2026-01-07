@@ -1,0 +1,65 @@
+/AI 文档工程|Document AI Engineering|DocAI Engineering/i => AI文档工程
+/企业级 RAG|Enterprise RAG|RAG 系统/i => 企业级RAG
+/检索增强生成|Retrieval Augmented Generation|\bRAG\b/i => RAG
+/知识库|Knowledge Base|KB 系统/i => 知识库
+/文档中台|Document Platform|Content Platform/i => 文档中台
+/Document Lake|文档湖/i => Document Lake
+/知识中台|Knowledge Platform/i => 知识中台
+
+/Oxygen ContentFusion|ContentFusion/i => Oxygen ContentFusion
+/Oxygen Software|Oxygen XML/i => Oxygen
+/Adobe Experience Manager|\bAEM\b/i => Adobe AEM
+/Alfresco/i => Alfresco
+/SharePoint|Microsoft SharePoint/i => SharePoint
+/OpenText/i => OpenText
+/Tridion|SDL Tridion/i => Tridion
+/Documentum/i => Documentum
+/内容管理系统|\bCMS\b/i => CMS
+/智能内容管理|Intelligent Content Management/i => 智能内容管理
+
+/文档智能体|Document Agent/i => Document Agent
+/流程智能体|Workflow Agent/i => Workflow Agent
+/多智能体系统|Multi-Agent System/i => 多智能体
+/Agent 框架|Agent Framework/i => Agent框架
+/AutoGPT|BabyAGI/i => 自动化智能体
+/LangGraph/i => LangGraph
+/LangChain/i => LangChain
+/工具调用|Tool Calling|Function Calling/i => 工具调用
+
+/文档解析|Document Parsing/i => 文档解析
+/文档理解|Document Understanding/i => 文档理解
+/结构化抽取|Information Extraction|IE/i => 结构化抽取
+/OCR|光学字符识别/i => OCR
+/版面分析|Layout Analysis/i => 版面分析
+/表格识别|Table Extraction/i => 表格抽取
+/多模态文档|Multimodal Document/i => 多模态文档
+
+/机器翻译|Machine Translation|\bMT\b/i => 机器翻译
+/文档级翻译|Document-level MT/i => 文档级翻译
+/神经机器翻译|Neural Machine Translation|\bNMT\b/i => 神经机器翻译
+/大模型翻译|LLM Translation/i => 大模型翻译
+/术语一致性|Terminology Consistency/i => 术语一致性
+/跨语言 RAG|Cross-lingual RAG/i => 跨语言RAG
+
+/arXiv/i => arXiv
+/ACL|EMNLP|NAACL/i => NLP顶会
+/CVPR|ICCV|ECCV/i => 视觉顶会
+/NeurIPS|ICML|ICLR/i => AI顶会
+/行业白皮书|White Paper/i => 行业白皮书
+/技术报告|Technical Report/i => 技术报告
+
+/通义千问|Qwen/i => 通义千问
+/文心一言|ERNIE/i => 文心一言
+/讯飞星火|Spark/i => 讯飞星火
+/智谱 GLM|ChatGLM/i => ChatGLM
+/百川大模型|Baichuan/i => 百川
+/企业文档 AI|Enterprise Document AI/i => 企业文档AI
+
+人工智能
+大模型
+国产
+文档
+企业级
+自动化
+知识
+数据治理
